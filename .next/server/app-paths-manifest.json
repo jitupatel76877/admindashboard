@@ -1,0 +1,14 @@
+{
+  "/page": "app/page.js",
+  "/signin/page": "app/signin/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/createaccount/page": "app/createaccount/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/privacy-policy/page": "app/admin/privacy-policy/page.js",
+  "/admin/myscheduler/page": "app/admin/myscheduler/page.js",
+  "/admin/createscheduler/page": "app/admin/createscheduler/page.js",
+  "/admin/terms_and_conditions/page": "app/admin/terms_and_conditions/page.js",
+  "/admin/support/page": "app/admin/support/page.js"
+}
